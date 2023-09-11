@@ -20,4 +20,4 @@ In this Project i Wrote & Create Document
 * Test Senarios & Its Possible Test Case Conditions
 * Execution of test cases etc
 **********************************************************************************************************************
-So you can downlode each seprate file or Zip File which i uploded on this github
+So you can downlode each seprate Excel file or Zip File which i uploded on this github
