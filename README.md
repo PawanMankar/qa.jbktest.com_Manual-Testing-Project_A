@@ -18,6 +18,7 @@ Certificate module, Contact us module ,Other information
 In this Project i Wrote & Create Document 
 * Test Plan
 * Test Senarios & Its Possible Test Case Conditions
-* Execution of test cases etc
+* Execution of test cases
+* Bug Reporting Using Excel Sheet
 **********************************************************************************************************************
 So you can downlode each seprate Excel file or Zip File which i uploded on this github
